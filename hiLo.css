@@ -1,0 +1,28 @@
+body {
+  background-image: url("https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSbSjcJps5Q7tIP3e1Ct8yPwqV1kz9B5uvRP0GWT_7LvRRUy3aD");
+  text-align: center;
+}
+h1 {
+  background-color: 	#990088;
+  color: #00ddff;
+  font-size: 60px;
+  font-family: 'Bungee Shade', cursive;
+
+}
+p {
+  background-color: #0099bb;
+  color: #990088;
+  padding: 50px;
+  font-size: 50px;
+  font-family: 'Kavoon', cursive;
+
+}
+button {
+  background-color: 	#990088;
+  color: #00ddff;
+  font-size: 30px;
+  font-family: 'Fruktur', cursive;
+}
+.tries {
+  color: red;
+}
